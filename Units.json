@@ -4,15 +4,15 @@
     "cost": 1,
     "movement": 1,
     "strength": 100,
-    "rangedStrength": 150,
+    "rangedStrength": 300,
     "range": 500,
     "unitType": "Ranged", "Armor", "Siege",
     "uniques": ["Unbuildable <hidden from users>",
-      "Ranged attacks may be performed over obstacles",
-      "No Sight",
-      "Destroys tile improvements when attacking",
-      "Never appears as a Barbarian unit",
-      "[+2000]% maintenance costs",
-      "Blast radius [4]"]
+      "Ranged attacks may be performed over obstacles <hidden from users>",
+      "No Sight <hidden from users>",
+      "Destroys tile improvements when attacking <hidden from users>",
+      "Never appears as a Barbarian unit <hidden from users>",
+      "[+2000]% maintenance costs <hidden from users>",
+      "Blast radius [4] <hidden from users>"]
   }
 ]
