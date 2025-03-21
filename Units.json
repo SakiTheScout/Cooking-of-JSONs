@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "Schemata Railcannon",
+    "cost": 1,
+    "movement": 1,
+    "strength": 100,
+    "rangedStrength": 150,
+    "range": 500,
+    "unitType": "Ranged", "Armor", "Siege",
+    "uniques": ["Unbuildable <hidden from users>",
+      "Ranged attacks may be performed over obstacles",
+      "No Sight",
+      "Destroys tile improvements when attacking",
+      "Never appears as a Barbarian unit",
+      "[+2000]% maintenance costs",
+      "Blast radius [4]"]
+  }
+]
