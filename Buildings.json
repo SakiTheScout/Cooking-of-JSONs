@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Volley of Presidents",
+    "uniqueTo": "Abydos High School",
+    "isNationalWonder": true,
+    "culture": 10,
+    "requiredTech": "Railroads",
+    "cost": [2000],
+    "uniques":[
+      "Triggers the following global alert: [Schemata Rail Cannon is being released from the Volley of Presidents! Brace for impact!] <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Never destroyed when the city is captured",
+      "Doubles Gold given to enemy if city is captured <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Must be next to [Desert]",
+      "[-1 Happiness] [in all cities]",
+      "Cannot be purchased <hidden from users>",
+      "Cost increases by [100] per owned city <hidden from users>",
+      "
+  }
+]
