@@ -29,8 +29,42 @@
 		"outerColor": [242,247,255],
 		"innerColor": [12,34,38],
 		"uniqueName": "Hatred that is not ours",
-		"uniques":["[+1 Happiness] from every [Luxury resource] [in all cities]"]
+		"uniques":[" "],
 		"cities": ["Arius Basilica", "Remnants of Basilica's Downtown", "The Tea Square", "Arius District 1", "Arius District 2", "Arius District 3", "Arius District 7", "Arius District 8", "Arius District 9", "Arius District 10", "Arius District 11"]
-		"personality": "Madame Beatrice"
+		"personality": "Madame Beatrice",
+	},
+	{
+		"name": "Abydos High School",
+		"leaderName": "Takanashi Hoshino",
+		"adjective": ["Abydosan"],
+		"startBias": ["Oasis"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Abydos is the oldest running school in all Kivotos, our influence can still be noticed in other Great Schools. Legacy of Abydos is truly vast as we keep discovering new and new sites with ancient relics. But after Desertification that started 7 years ago, Abydos District got mostly covered in sand and its economics crumbled, people started to flee, students ceased to enroll and banks demand insane debts to be returned...",
+		"startIntroPart2": "Will we manage to rise after such fall? Will we regain control and enforce order and stability across this wasteland? TAKANASHI HOSHINO, WAKE UP! I AM BRIEFING YOU!",
+		
+		"declaringWar": "I tried it to be the easy way. Now we do this a hard way.",
+		"attacked": "Uhe~ Not the first time...",
+		"defeated": "...Huh. Is that it?.. Guess I have more time to nap then...",
+		"introduction": "Eh? Hello-hello~! Who might you be, hm?.. I am Takanashi Hoshino, president of Abydos Independent High School...",
+		
+		"neutralHello": "Uhe~... Hi, you needed somethin'?",
+		"neutralLetsHearIt": "Oh?.. Are you interested in investing in Abydos economics by any chance?..",
+		"neutralNo": "Eh... No, rejected...",
+		"neutralYes": "Woah, thanks for offer...",
+		"hateHello": "...Make it quick, I am busy.",
+		"hateLetsHearIt": "What are you going to offer?",
+		"hateNo": "Rejected, go away.",
+		"hateYes": "Fine...",
+		
+		"afterPeace": "Eh... Gladly it resolved...",
+		"tradeRequest": "Mmm... Trading, exchanging... How exhausting!.. Here's my deal...",
+
+		"outerColor": [255,255,255],
+		"innerColor": [1,1,1],
+		"uniqueName": "Great Legacy",
+		"uniques":[" "],
+		"cities": ["Abydos High School Main Building Annex", "Desertified Abydos Main Building", "Abydos Downtown", "Abydos Desert District 12-77", "Abydos Desert District 36-78", "Abydos Desrt District 41-12", "Abydos Desert District 50-17", "Abydos Desert District 67-77", "Volley of Presidents", "Abydos Ruined District 17-73", "Abydos Ruined District 67-89"]
+		"personality": "Takanashi Hoshino"
 	}
 ]
