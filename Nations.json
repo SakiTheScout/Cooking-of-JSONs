@@ -60,7 +60,7 @@
 		"afterPeace": "Eh... Gladly it resolved...",
 		"tradeRequest": "Mmm... Trading, exchanging... How exhausting!.. Here's my deal...",
 
-		"outerColor": [255,255,255],
+		"outerColor": [1,255,255],
 		"innerColor": [1,1,1],
 		"uniqueName": "Great Legacy",
 		"uniques":["Free Great Person <upon entering a new era>",
